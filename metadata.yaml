@@ -1,0 +1,59 @@
+_repo: Whither_75631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: 'Reading ease score: 50.7 (10th to 12th grade). Somewhat difficult to
+  read.
+
+  Originally published anonymously in the Atlantic Monthly, March, 1915.'
+gutenberg_bookshelf:
+- 'Browsing: Philosophy & Ethics'
+- 'Browsing: Religion/Spirituality/Paranormal'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75631'
+language: en
+pgterms:marc904: https://archive.org/details/whither00unse_0/page/n5/mode/2up
+pgterms:marc905: 20250114033950author
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Mairi, Laura Natal and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive).
+publication_note: '  $aBoston :$bHoughton Mifflin Company, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+- GITenberg
+summary: '"Whither? by Anonymous" is a reflective philosophical work, likely written
+  in the early 20th century. The book explores the spiritual and moral dimensions
+  of human existence in an increasingly materialistic world, reflecting on the contrasting
+  values between the past and modern life. It is not merely a historical account but
+  rather a critique of contemporary existence, ensuring that readers are left pondering
+  profound questions about progress, spirituality, and the essence of life.  In "Whither?",
+  the author gathers insights from personal correspondence dated decades earlier,
+  lamenting the loss of deeper spiritual values that once underpinned human experience.
+  The text contrasts the superficial preoccupations of modern society—focused on material
+  advancement and physical needs—with the rich, faith-driven lives of previous generations.
+  The author argues that this shift towards a materialistic viewpoint leads to an
+  impoverished spiritual existence, raising serious questions about the very meaning
+  of progress. Through this discourse, the book advocates for a return to spiritual
+  and ethical considerations as central to human flourishing, urging readers to recognize
+  the intrinsic value of faith, hope, and the pursuit of a higher purpose amid an
+  increasingly shallow and distracted world. (This is an automatically generated summary.)'
+title: Whither?
+url: http://www.gutenberg.org/ebooks/75631
